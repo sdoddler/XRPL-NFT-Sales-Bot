@@ -1,0 +1,33 @@
+{
+  "name": "xrpl-nft-sales-bot",
+  "version": "1.0.0",
+  "description": "An XRPL NFT Sales bot with Twitter and Discord Integration",
+  "main": "SalesBot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdoddler/XRPL-NFT-Sales-Bot.git"
+  },
+  "keywords": [
+    "xrpl",
+    "nft",
+    "sales",
+    "bot"
+  ],
+  "author": "sDoddler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdoddler/XRPL-NFT-Sales-Bot/issues"
+  },
+  "homepage": "https://github.com/sdoddler/XRPL-NFT-Sales-Bot#readme",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "twit": "^2.2.11",
+    "ws": "^8.12.1",
+    "xrpl": "^2.7.0-beta.2"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,40 @@
+{
+  "node": "wss://NODE HERE",
+  "issuersToTrack": {
+    "rPNKEiCGzPd53MhqjkQJrtJKLLVWi6bav1": {
+      "includeFee": false,
+      "includeMinted": false,
+      "twitterSale": "%name% sold!\nSold for %buyerAmount% $XRP\nFrom %seller% to %buyer%\nhttps://xrp.cafe/nft/%nft%",
+      "twitterMint": "%name% Minted!\nMinted by %buyer%\nhttps://xrp.cafe/nft/%nft%",
+	"avatarURL": "",
+      "discordColor": 15105570,
+      "addressDisplay":"nomiddle",
+      "discordWebhookEnabled": true,
+      "discordWebhookURL": "YOUR DISCORD WEBHOOK HERE",
+      "twitterPostEnabled": true,
+      "consumer_key": "twitter_consumerKey",
+      "consumer_secret": "twitter_consumer_secret",
+      "access_token": "twitter_access_token",
+      "access_token_secret": "twitter_access_token_secret",
+      "mintingWallets": [ "rPNKEiCGzPd53MhqjkQJrtJKLLVWi6bav1" ]
+    },
+    "rSVnzbjQvfNjr1GCmQRkyha22Mp18zXm9": {
+      "includeFee": false,
+      "includeMinted": true,
+      "twitterSale": "%name% sold!\nSold for %buyerAmount% $XRP\nFrom %seller% to %buyer%\nhttps://xrp.cafe/nft/%nft%",
+      "twitterMint": "\uD83C\uDFEA Shillverse In-Game Shop Purchase \uD83D\uDED2\n%name% Minted!\nMinted by %buyer%\nhttps://xrp.cafe/nft/%nft%",
+      "avatarURL": "",
+      "discordColor": 15105570,
+      "addressDisplay":"nomiddle",
+      "discordWebhookEnabled": true,
+      "discordWebhookURL": "YOUR DISCORD WEBHOOK HERE",
+      "twitterPostEnabled": false,
+      "consumer_key": "twitter_consumerKey",
+      "consumer_secret": "twitter_consumer_secret",
+      "access_token": "twitter_access_token",
+      "access_token_secret": "twitter_access_token_secret",
+      "mintingWallets": [ "rSVnzbjQvfNjr1GCmQRkyha22Mp18zXm9" ]
+    }
+  }
+
+}
