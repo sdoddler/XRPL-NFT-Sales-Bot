@@ -54,6 +54,8 @@ Within the Twitter Sale & Twitter Mint strings you can use variables to customis
 
 #### Preview / Screenshots
 ![image](https://user-images.githubusercontent.com/14932966/222015373-90c58009-5a56-4f6a-bc20-492b06ced14f.png)![image](https://user-images.githubusercontent.com/14932966/222018437-2d0e24f5-db39-40b6-8f02-bd6a8ffd23e4.png)
+![image](https://user-images.githubusercontent.com/14932966/222018553-ed7e73f7-ad80-4aa2-b033-6b3daaa203a9.png)
+
 
 #### Donate
 I am releasing this tool for free as I believe it benefits the XRPL and the projects on it. 
